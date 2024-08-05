@@ -14,9 +14,8 @@ A web application designed to help you manage your pantry items efficiently.
 - **Next.js**: A React framework for building server-side rendered and static web applications.
 - **Material UI**: A popular React UI framework for building modern user interfaces.
 - **Firebase**: A platform for building and managing web applications, used here for data storage.
-- **OpenAI API**: Provides recipe suggestions based on pantry contents.
 
 # Additions
-- Future additions inclide
+Future additions inclide
 - **Recipe Suggestions**: Get recipe ideas based on the ingredients available in your pantry.
 - **Categories**: Organize pantry items into different categories for better management.
