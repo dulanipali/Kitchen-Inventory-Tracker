@@ -5,7 +5,6 @@ import { Box, Stack, Typography, Button, Modal, TextField, IconButton } from "@m
 import { getDoc } from "firebase/firestore";
 import { collection, query, getDocs, setDoc, doc, deleteDoc } from "firebase/firestore";
 import { useState, useEffect, useRef } from "react";
-import RecipeSuggestions from "./recipes";
 import AddIcon from '@mui/icons-material/Add';
 import RemoveIcon from '@mui/icons-material/Remove';
 import SearchIcon from '@mui/icons-material/Search';
