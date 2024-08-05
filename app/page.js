@@ -143,7 +143,7 @@ export default function Home() {
           }}>
           Add Items
         </Button>
-        <Button variant="contained" onClick={} sx={{
+        <Button variant="contained" sx={{
           bgcolor: "#4A3728",
           color: "white",
         }}>
